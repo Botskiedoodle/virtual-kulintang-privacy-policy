@@ -4,17 +4,23 @@ Last updated: June 21, 2023
 
 This Privacy Policy explains how Virtual Kulintang handles and protects user information when you use our mobile application.
 
-## No Data Collection
+## Collection of Personal Data
 
-We do not collect any personal or non-personal information from users of our App. We respect your privacy and understand the importance of keeping your information secure.
+Virtual Kulintang may collect personal data for the following purposes:
 
-## Data Usage
+1. Personalized Ads and Content: We may collect personal data to provide you with personalized advertisements and content tailored to your interests and preferences.
+2. Ad and Content Measurement: We may collect personal data to measure the effectiveness of advertisements and content displayed within our App.
+3. Audience insights: We may collect personal data to gain insigths into our audience and improve our services based on user preferences and demographics.
+4. Product Development: We may collect personal data to enhance and develop new features, functionality, and services within our App.
 
-Since we do not collect any data from users, we do not use or share any information with third parties.
+## Storage and Access of Information
 
-## Cookies
+Virtual Kulintang may store and/or access information on your device, such as cookies or similar technologies. This enables us to provide a personalized user experience and deliver aforementioned personalized ads and content.
+We only store and access information necessary for the proper functioning of our App and the fulfillment of the stated purposes. 
 
-Our App does not use cookies or any similar tracking technologies.
+## Data Usage and Sharing 
+
+We do not share your personal data with third parties for any purposes other than those mentioned in this Privacy Polucy. Your personal data is treated with utmost confidentiality and is securely stored within our systems.
 
 ## Children's Privacy
 
