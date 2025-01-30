@@ -14,7 +14,7 @@ Virtual Kulintang does not acces storage or access any personal information.
 
 ## Data Usage and Sharing 
 
-We do not share your personal data with third parties for any purposes other than those mentioned in this Privacy Polucy. Your personal data is treated with utmost confidentiality and is securely stored within our systems.
+Since Virtual kulintang does not collect user data, Virtual kulintang does not engage in user data usage/sharing.
 
 ## Children's Privacy
 
