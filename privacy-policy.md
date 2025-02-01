@@ -2,7 +2,7 @@
 
 Last updated: February 2, 2025
 
-This Privacy Policy explains how Virtual Kulintang handles and protects user information when you use our mobile application.
+This Privacy Policy explains how Virtual Kulintang states information that it does not store/access/share any personal user information/data.
 
 ## Collection of Personal Data
 
