@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: June 21, 2023
+Last updated: January 2, 2025
 
 This Privacy Policy explains how Virtual Kulintang handles and protects user information when you use our mobile application.
 
