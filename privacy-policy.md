@@ -17,7 +17,8 @@ Last Updated: February 3, 2025
 • **Ad Performance Data**: Impressions, Clicks, and Interactions.
 • **Location Data (If applicable)**: Approximate location for ad targeting. 
 
-For more details, pl;ease review Google's privacy policies
+For more details, please review Google's privacy policies:
+Google's privacy policy
 https://developers.google.com/admob/android/privacy/play-data-disclosure
 
 # How Users Can Manage Their Data
