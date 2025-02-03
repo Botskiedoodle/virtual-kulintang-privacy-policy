@@ -1,28 +1,34 @@
+# Data Safety Policy for Virtual Kulintang
+Effective Date: February 3, 2025
+Last Updated: February 3, 2025
+
 # Privacy Policy
 
-Last updated: February 2, 2025
+# Introduction
+**Virtual Kulintang** respects your privacy and is committed to transparency regarding data collection and usage. This policy explains how data is handled within our app, including third-party services like **Google AdMob**.
 
-This Privacy Policy explains how Virtual Kulintang states information that it does not store/access/share any personal user information/data.
+# Data Collection & Usage
+• Our app **does not** collect, share, or store any personal user data.
+• However, we use **Google AdMob** to serve advertisements, and it may collect certain data to improve ad relevance and performance.
 
-## Collection of Personal Data
+# Thir-Party Services (Google AdMob)
+**Goole Admob** may collect and process data, such as:
+• **Device Information**: Model, OS Version, Unique Indentifiers.
+• **Ad Performance Data**: Impressions, Clicks, and Interactions.
+• **Location Data (If applicable)**: Approximate location for ad targeting. 
 
-Virtual kulintang **does not** collect personal data.
+For more details, pl;ease review Google's privacy policies
+https://developers.google.com/admob/android/privacy/play-data-disclosure
 
-## Storage and Access of Information
+# How Users Can Manage Their Data
+Users can manage personalized ads via their device settings:
+  • **Android**: Settings > Google > Ads
+  • **IOS**>: Settings > Privacy > Tracking
+For further control over ads, users can visit Google's Ad Settings.
 
-Virtual Kulintang **does not access storage or access any personal information.**
+# Changes to This Policy
+We may update this policy from time to time. Any changes will be reflected in this document, and users are encouraged to review it periodically. 
 
-## Data Usage and Sharing 
-
-Since Virtual kulintang **does not collect user data**, Virtual kulintang does not engage in user data usage/sharing.
-
-## Children's Privacy
-
-Our App is intended for educational purposes and may be used by children under the age of 13. We do not knowingly collect any personal information from children without verifiable parental consent. If you are a parent or guardian and believe that your child has provided us with any personal information, please contact us immediately, and we rest assured that Virtual kulintang **does not store or share any personal user information**.
-## Changes to this Privacy Policy
-
-We reserve the right to update or modify this Privacy Policy at any time. Any changes we make will be effective immediately upon posting the revised version in the App. We encourage you to review this Privacy Policy periodically to stay informed about how we protect your information.
-
-## Contact Us
-
-If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at tanfelix.richard@gmail.com.
+# Contact Information
+If you have any questions regarding this policy, you can contact us at:
+**Email**: tanfelix.richard@gmail.com
